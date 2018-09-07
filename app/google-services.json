@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "767424539508",
+    "firebase_url": "https://taskproject-1a26c.firebaseio.com",
+    "project_id": "taskproject-1a26c",
+    "storage_bucket": "taskproject-1a26c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767424539508:android:848a9abdd393d5de",
+        "android_client_info": {
+          "package_name": "com.example.madina.loginregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767424539508-durnsd7lftq50muhk2jths98tfpasme1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.madina.loginregistration",
+            "certificate_hash": "7850d6ada6be79673b2ee754ae27a50b0ac8e0dc"
+          }
+        },
+        {
+          "client_id": "767424539508-o9q4b0esfas9l3tshn1l569hs5bitmgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7ZzHWHLPVLk9RUS-GmRM29RzMlN0c7K4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767424539508-o9q4b0esfas9l3tshn1l569hs5bitmgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767424539508:android:d32cb61a5ad3cd77",
+        "android_client_info": {
+          "package_name": "example.com.loginwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767424539508-1iorj0m8dt40kd522enpe7eh5d2hrqas.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "example.com.loginwithfirebase",
+            "certificate_hash": "7850d6ada6be79673b2ee754ae27a50b0ac8e0dc"
+          }
+        },
+        {
+          "client_id": "767424539508-o9q4b0esfas9l3tshn1l569hs5bitmgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7ZzHWHLPVLk9RUS-GmRM29RzMlN0c7K4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767424539508-o9q4b0esfas9l3tshn1l569hs5bitmgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
